@@ -34,7 +34,7 @@ https://data.gov.in/resources/category-wise-all-india-automobile-production-2001
 		
 		Minimum in the month of August
 	
-	Compared to their respective averages over the years 1901 to 2016.
+	**Compared to their respective averages** over the years 1901 to 2016.
 	
 		July and August received more rainfall
 		
